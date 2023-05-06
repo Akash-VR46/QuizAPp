@@ -1,0 +1,22 @@
+[
+  {
+    "question": "Delhi is Capital of India",
+    "correctAnswer": true
+  },
+  {
+    "question": "Training is good",
+    "correctAnswer": true
+  },
+  {
+    "question": "this assignmnet is hard",
+    "correctAnswer": false
+  },
+  {
+    "question": "Admin of this app is Akash",
+    "correctAnswer": true
+  },
+  {
+    "question": "Gabbar is good daku",
+    "correctAnswer": false
+  }
+]

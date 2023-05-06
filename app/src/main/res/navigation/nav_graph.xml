@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+             xmlns:app="http://schemas.android.com/apk/res-auto"
+             android:id="@+id/nav_graph"
+    app:startDestination="@id/subjectChoiceFragment2">
+
+    <fragment
+        android:id="@+id/subjectChoiceFragment2"
+        android:name="com.example.quizapp.Fragments.SubjectChoiceFragment"
+        android:label="SubjectChoiceFragment" >
+        <action
+            android:id="@+id/action_subjectChoiceFragment2_to_settingsFragment2"
+            app:destination="@id/settingsFragment2" />
+        <action
+            android:id="@+id/action_subjectChoiceFragment2_to_scoreHistoryFragment"
+            app:destination="@id/scoreHistoryFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/settingsFragment2"
+        android:name="com.example.quizapp.Fragments.SettingsFragment"
+        android:label="SettingsFragment" >
+        <action
+            android:id="@+id/action_settingsFragment2_to_subjectChoiceFragment2"
+            app:destination="@id/subjectChoiceFragment2" />
+        <action
+            android:id="@+id/action_settingsFragment2_to_scoreHistoryFragment"
+            app:destination="@id/scoreHistoryFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/scoreHistoryFragment"
+        android:name="com.example.quizapp.Fragments.ScoreHistoryFragment"
+        android:label="ScoreHistoryFragment" >
+        <action
+            android:id="@+id/action_scoreHistoryFragment_to_settingsFragment2"
+            app:destination="@id/settingsFragment2" />
+        <action
+            android:id="@+id/action_scoreHistoryFragment_to_subjectChoiceFragment2"
+            app:destination="@id/subjectChoiceFragment2" />
+        <action
+            android:id="@+id/action_scoreHistoryFragment_to_quizHistoryDetailedViewFragment"
+            app:destination="@id/quizHistoryDetailedViewFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/quizHistoryDetailedViewFragment"
+        android:name="com.example.quizapp.Fragments.QuizHistoryDetailedViewFragment"
+        android:label="QuizHistoryDetailedViewFragment" />
+</navigation>

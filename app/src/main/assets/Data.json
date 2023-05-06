@@ -1,0 +1,1992 @@
+{
+  "T/F": {
+    "Maths": [
+      {
+        "question": "1 + 1 = 3",
+        "option1": false,
+        "option2": true,
+        "answer": false
+      },
+      {
+        "question": "The square root of 16 is 4.",
+        "option1": true,
+        "option2": false,
+        "answer": true
+      },
+      {
+        "question": "A prime number is divisible by 1 and itself only.",
+        "option1": true,
+        "option2": false,
+        "answer": true
+      },
+      {
+        "question": "A triangle can have two right angles.",
+        "option1": false,
+        "option2": true,
+        "answer": false
+      },
+      {
+        "question": "The slope of a vertical line is undefined.",
+        "option1": true,
+        "option2": false,
+        "answer": true
+      },
+      {
+        "question": "The product of two negative numbers is always negative.",
+        "option1": false,
+        "option2": true,
+        "answer": false
+      },
+      {
+        "question": "The equation of a line in slope-intercept form is y = mx + b.",
+        "option1": true,
+        "option2": false,
+        "answer": true
+      },
+      {
+        "question": "The Pythagorean Theorem states that a^2 + b^2 = c^2.",
+        "option1": true,
+        "option2": false,
+        "answer": true
+      },
+      {
+        "question": "A hexagon has 6 sides.",
+        "option1": true,
+        "option2": false,
+        "answer": true
+      },
+      {
+        "question": "An acute angle measures greater than 90 degrees.",
+        "option1": false,
+        "option2": true,
+        "answer": false
+      }
+    ],
+    "Physics": [
+      {
+        "question": "An object in motion tends to stay in motion, and an object at rest tends to stay at rest.",
+        "option1": true,
+        "option2": false,
+        "answer": true
+      },
+      {
+        "question": "In physics, acceleration is the rate at which an object changes its direction.",
+        "option1": false,
+        "option2": true,
+        "answer": false
+      },
+      {
+        "question": "The force required to maintain an object's motion in a straight line is called centripetal force.",
+        "option1": false,
+        "option2": true,
+        "answer": false
+      },
+      {
+        "question": "The buoyant force exerted on an object in a fluid is equal to the weight of the fluid displaced by the object.",
+        "option1": true,
+        "option2": false,
+        "answer": true
+      },
+      {
+        "question": "The kinetic energy of an object is equal to its mass times its acceleration.",
+        "option1": false,
+        "option2": true,
+        "answer": false
+      },
+      {
+        "question": "In physics, work is defined as the product of an object's mass and its velocity.",
+        "option1": false,
+        "option2": true,
+        "answer": false
+      },
+      {
+        "question": "The angle of incidence is equal to the angle of reflection.",
+        "option1": true,
+        "option2": false,
+        "answer": true
+      },
+      {
+        "question": "The speed of light is the fastest possible speed in the universe.",
+        "option1": true,
+        "option2": false,
+        "answer": true
+      },
+      {
+        "question": "Electric current flows from negative to positive.",
+        "option1": false,
+        "option2": true,
+        "answer": false
+      },
+      {
+        "question": "In physics, power is the rate at which work is done.",
+        "option1": true,
+        "option2": false,
+        "answer": true
+      }
+    ],
+    "Chemistry": [
+      {
+        "question": "Water is an example of a chemical element.",
+        "option1": false,
+        "option2": true,
+        "answer": false
+      },
+      {
+        "question": "An acid is a substance that releases hydrogen ions in water.",
+        "option1": true,
+        "option2": false,
+        "answer": true
+      },
+      {
+        "question": "The atomic number of an element is equal to the number of protons in its nucleus.",
+        "option1": true,
+        "option2": false,
+        "answer": true
+      },
+      {
+        "question": "An exothermic reaction releases heat into its surroundings.",
+        "option1": true,
+        "option2": false,
+        "answer": true
+      },
+      {
+        "question": "A catalyst increases the rate of a chemical reaction by increasing the activation energy.",
+        "option1": false,
+        "option2": true,
+        "answer": false
+      },
+      {
+        "question": "The pH scale measures the acidity or basicity of a solution.",
+        "option1": true,
+        "option2": false,
+        "answer": true
+      },
+      {
+        "question": "A mole is a unit of measurement for the number of particles in a substance.",
+        "option1": true,
+        "option2": false,
+        "answer": true
+      },
+      {
+        "question": "Electronegativity is a measure of an atom's ability to attract electrons in a chemical bond.",
+        "option1": true,
+        "option2": false,
+        "answer": true
+      },
+      {
+        "question": "Oxidation is the process of gaining electrons.",
+        "option1": false,
+        "option2": true,
+        "answer": false
+      },
+      {
+        "question": "An endothermic reaction absorbs heat from its surroundings.",
+        "option1": true,
+        "option2": false,
+        "answer": true
+      }
+    ],
+    "Biology": [
+      {
+        "question": "The human body has four chambers in the heart.",
+        "option1": false,
+        "option2": true,
+        "answer": false
+      },
+      {
+        "question": "Photosynthesis is the process by which plants convert sunlight into chemical energy.",
+        "option1": true,
+        "option2": false,
+        "answer": true
+      },
+      {
+        "question": "The mitochondria are the powerhouses of the cell, producing ATP for energy.",
+        "option1": true,
+        "option2": false,
+        "answer": true
+      },
+      {
+        "question": "DNA stands for deoxyribonucleic acid.",
+        "option1": true,
+        "option2": false,
+        "answer": true
+      },
+      {
+        "question": "The human body has a total of 206 bones.",
+        "option1": true,
+        "option2": false,
+        "answer": true
+      },
+      {
+        "question": "The pancreas produces insulin, which regulates blood sugar levels.",
+        "option1": true,
+        "option2": false,
+        "answer": true
+      },
+      {
+        "question": "A virus is a type of bacteria.",
+        "option1": false,
+        "option2": true,
+        "answer": false
+      },
+      {
+        "question": "The ribosome is the site of protein synthesis in a cell.",
+        "option1": true,
+        "option2": false,
+        "answer": true
+      },
+      {
+        "question": "The process of meiosis results in the production of two identical daughter cells.",
+        "option1": false,
+        "option2": true,
+        "answer": false
+      },
+      {
+        "question": "The function of the red blood cells is to carry oxygen to the body's tissues.",
+        "option1": true,
+        "option2": false,
+        "answer": true
+      }
+    ],
+    "English": [
+      {
+        "question": "The word 'dog' is a noun.",
+        "option1": true,
+        "option2": false,
+        "answer": true
+      },
+      {
+        "question": "A verb is a word that describes an action.",
+        "option1": true,
+        "option2": false,
+        "answer": true
+      },
+      {
+        "question": "An adjective is a word that modifies a verb.",
+        "option1": false,
+        "option2": true,
+        "answer": false
+      },
+      {
+        "question": "A simile is a figure of speech that compares two things using 'like' or 'as'.",
+        "option1": true,
+        "option2": false,
+        "answer": true
+      },
+      {
+        "question": "A preposition is a word that shows the relationship between a noun or pronoun and other words in a sentence.",
+        "option1": true,
+        "option2": false,
+        "answer": true
+      },
+      {
+        "question": "The past tense of 'eat' is 'eated'.",
+        "option1": false,
+        "option2": true,
+        "answer": false
+      },
+      {
+        "question": "An adverb is a word that modifies a verb, adjective, or other adverb.",
+        "option1": true,
+        "option2": false,
+        "answer": true
+      },
+      {
+        "question": "A metaphor is a figure of speech that describes something by saying it is something else.",
+        "option1": true,
+        "option2": false,
+        "answer": true
+      },
+      {
+        "question": "The subject of a sentence is the person or thing that performs the action.",
+        "option1": true,
+        "option2": false,
+        "answer": true
+      },
+      {
+        "question": "A pronoun is a word used in place of a noun.",
+        "option1": true,
+        "option2": false,
+        "answer": true
+      }
+    ],
+    "Social": [
+      {
+        "question": "The United States has a bicameral legislative system, consisting of the House of Representatives and the Senate.",
+        "option1": true,
+        "option2": false,
+        "answer": true
+      },
+      {
+        "question": "The Emancipation Proclamation, issued by President Abraham Lincoln, declared all slaves in the Confederate States to be free.",
+        "option1": true,
+        "option2": false,
+        "answer": true
+      },
+      {
+        "question": "The Cold War was a military conflict between the United States and Germany.",
+        "option1": false,
+        "option2": true,
+        "answer": false
+      },
+      {
+        "question": "The American Revolution was fought to gain independence from England.",
+        "option1": true,
+        "option2": false,
+        "answer": true
+      },
+      {
+        "question": "The Great Depression was a severe economic downturn that began in the United States in 1929.",
+        "option1": true,
+        "option2": false,
+        "answer": true
+      },
+      {
+        "question": "The Civil Rights Act of 1964 outlawed discrimination based on race, color, religion, sex, or national origin.",
+        "option1": true,
+        "option2": false,
+        "answer": true
+      },
+      {
+        "question": "The Supreme Court case of Brown v. Board of Education ruled that segregation in public schools was unconstitutional.",
+        "option1": true,
+        "option2": false,
+        "answer": true
+      },
+      {
+        "question": "The Articles of Confederation were the first governing document of the United States.",
+        "option1": true,
+        "option2": false,
+        "answer": true
+      },
+      {
+        "question": "The Vietnam War was fought between North and South Korea.",
+        "option1": false,
+        "option2": true,
+        "answer": false
+      },
+      {
+        "question": "The 19th Amendment to the U.S. Constitution granted women the right to vote.",
+        "option1": true,
+        "option2": false,
+        "answer": true
+      }
+    ],
+    "C": [
+      {
+        "question": "C is a high-level programming language.",
+        "option1": false,
+        "option2": true,
+        "answer": false
+      },
+      {
+        "question": "In C, the keyword 'int' is used to declare a variable of integer type.",
+        "option1": true,
+        "option2": false,
+        "answer": true
+      },
+      {
+        "question": "The '++' operator in C is used to increment a variable by one.",
+        "option1": true,
+        "option2": false,
+        "answer": true
+      },
+      {
+        "question": "C is a compiled language, meaning that the code is translated into machine code before execution.",
+        "option1": true,
+        "option2": false,
+        "answer": true
+      },
+      {
+        "question": "The 'if' statement in C is used for conditional execution of code.",
+        "option1": true,
+        "option2": false,
+        "answer": true
+      },
+      {
+        "question": "A function in C can only return a single value.",
+        "option1": true,
+        "option2": false,
+        "answer": true
+      },
+      {
+        "question": "In C, a 'struct' is a user-defined data type that groups together variables of different data types under a single name.",
+        "option1": true,
+        "option2": false,
+        "answer": true
+      },
+      {
+        "question": "The 'switch' statement in C is used to select one of several code blocks to be executed.",
+        "option1": true,
+        "option2": false,
+        "answer": true
+      },
+      {
+        "question": "C does not support object-oriented programming.",
+        "option1": false,
+        "option2": true,
+        "answer": false
+      },
+      {
+        "question": "The 'while' loop in C is used for iterative execution of code as long as a condition is true.",
+        "option1": true,
+        "option2": false,
+        "answer": true
+      }
+    ],
+    "C++": [
+      {
+        "question": "C++ is a high-level programming language.",
+        "option1": true,
+        "option2": false,
+        "answer": true
+      },
+      {
+        "question": "In C++, the keyword 'new' is used to dynamically allocate memory for an object at runtime.",
+        "option1": true,
+        "option2": false,
+        "answer": true
+      },
+      {
+        "question": "The '>>' operator in C++ is used for output.",
+        "option1": false,
+        "option2": true,
+        "answer": false
+      },
+      {
+        "question": "C++ is an interpreted language, meaning that the code is translated into machine code before execution.",
+        "option1": false,
+        "option2": true,
+        "answer": false
+      },
+      {
+        "question": "The 'virtual' keyword in C++ is used to create a virtual function in a base class that can be overridden in derived classes.",
+        "option1": true,
+        "option2": false,
+        "answer": true
+      },
+      {
+        "question": "A constructor in C++ is a special member function that is called when an object is created.",
+        "option1": true,
+        "option2": false,
+        "answer": true
+      },
+      {
+        "question": "In C++, the 'const' keyword is used to specify that a variable cannot be modified.",
+        "option1": true,
+        "option2": false,
+        "answer": true
+      },
+      {
+        "question": "The '->' operator in C++ is used to access the members of an object through a pointer.",
+        "option1": true,
+        "option2": false,
+        "answer": true
+      },
+      {
+        "question": "In C++, the 'this' pointer is used to refer to the object that called the member function.",
+        "option1": true,
+        "option2": false,
+        "answer": true
+      },
+      {
+        "question": "C++ does not support exception handling.",
+        "option1": false,
+        "option2": true,
+        "answer": false
+      }
+    ],
+    "Java": [
+      {
+        "question": "Java is an interpreted language, meaning that the code is translated into machine code before execution.",
+        "option1": false,
+        "option2": true,
+        "answer": false
+      },
+      {
+        "question": "In Java, the keyword 'final' is used to specify that a variable cannot be modified.",
+        "option1": true,
+        "option2": false,
+        "answer": true
+      },
+      {
+        "question": "The '==' operator in Java is used to test for object identity.",
+        "option1": false,
+        "option2": true,
+        "answer": false
+      },
+      {
+        "question": "Java supports multiple inheritance.",
+        "option1": false,
+        "option2": true,
+        "answer": false
+      },
+      {
+        "question": "The 'for' loop in Java is used for iterative execution of code.",
+        "option1": true,
+        "option2": false,
+        "answer": true
+      },
+      {
+        "question": "In Java, a constructor is a special method that is called when an object is created.",
+        "option1": true,
+        "option2": false,
+        "answer": true
+      },
+      {
+        "question": "Java does not support operator overloading.",
+        "option1": true,
+        "option2": false,
+        "answer": true
+      },
+      {
+        "question": "The 'interface' keyword in Java is used to define a collection of abstract methods that can be implemented by classes.",
+        "option1": true,
+        "option2": false,
+        "answer": true
+      },
+      {
+        "question": "Java supports automatic garbage collection.",
+        "option1": true,
+        "option2": false,
+        "answer": true
+      },
+      {
+        "question": "The 'try-catch' block in Java is used for exception handling.",
+        "option1": true,
+        "option2": false,
+        "answer": true
+      }
+    ],
+    "DBMS": [
+      {
+        "question": "DBMS stands for Database Management System.",
+        "option1": true,
+        "option2": false,
+        "answer": true
+      },
+      {
+        "question": "A database in DBMS is a collection of related data.",
+        "option1": true,
+        "option2": false,
+        "answer": true
+      },
+      {
+        "question": "In DBMS, the SQL language is used to manipulate data in a database.",
+        "option1": true,
+        "option2": false,
+        "answer": true
+      },
+      {
+        "question": "A table in DBMS is a collection of related records.",
+        "option1": true,
+        "option2": false,
+        "answer": true
+      },
+      {
+        "question": "A view in DBMS is a virtual table that is based on the result of a SELECT query.",
+        "option1": true,
+        "option2": false,
+        "answer": true
+      },
+      {
+        "question": "In DBMS, the primary key is used to uniquely identify a record in a table.",
+        "option1": true,
+        "option2": false,
+        "answer": true
+      },
+      {
+        "question": "A foreign key in DBMS is a column or set of columns in one table that refers to the primary key of another table.",
+        "option1": true,
+        "option2": false,
+        "answer": true
+      },
+      {
+        "question": "Normalization is the process of organizing data in a database to minimize redundancy.",
+        "option1": true,
+        "option2": false,
+        "answer": true
+      },
+      {
+        "question": "In DBMS, a transaction is a set of operations that are executed as a single unit of work.",
+        "option1": true,
+        "option2": false,
+        "answer": true
+      }
+    ],
+    "Kotlin": [
+      {
+        "question": "Kotlin is a statically typed programming language that runs on the Java Virtual Machine.",
+        "option1": true,
+        "option2": false,
+        "answer": true
+      },
+      {
+        "question": "In Kotlin, the 'if' keyword is used for conditional execution of code.",
+        "option1": true,
+        "option2": false,
+        "answer": true
+      },
+      {
+        "question": "Kotlin supports null safety, meaning that a variable cannot be null unless it is explicitly declared as nullable.",
+        "option1": true,
+        "option2": false,
+        "answer": true
+      },
+      {
+        "question": "In Kotlin, the 'when' keyword is used to create a switch statement.",
+        "option1": true,
+        "option2": false,
+        "answer": true
+      },
+      {
+        "question": "Kotlin supports operator overloading.",
+        "option1": true,
+        "option2": false,
+        "answer": true
+      },
+      {
+        "question": "In Kotlin, a class can inherit from multiple interfaces.",
+        "option1": true,
+        "option2": false,
+        "answer": true
+      },
+      {
+        "question": "Kotlin supports extension functions, which allow a function to be added to an existing class without modifying the class itself.",
+        "option1": true,
+        "option2": false,
+        "answer": true
+      },
+      {
+        "question": "Kotlin supports higher-order functions, which are functions that take other functions as parameters or return functions as results.",
+        "option1": true,
+        "option2": false,
+        "answer": true
+      },
+      {
+        "question": "In Kotlin, the 'lateinit' keyword is used to specify that a variable will be initialized later.",
+        "option1": true,
+        "option2": false,
+        "answer": true
+      },
+      {
+        "question": "Kotlin does not support checked exceptions.",
+        "option1": true,
+        "option2": false,
+        "answer": true
+      }
+    ],
+    "Android": [
+      {
+        "question": "Android is an open-source operating system developed by Google.",
+        "option1": true,
+        "option2": false,
+        "answer": true
+      },
+      {
+        "question": "In Android, an activity represents a single screen with a user interface.",
+        "option1": true,
+        "option2": false,
+        "answer": true
+      },
+      {
+        "question": "The Android Manifest file contains information about the application, such as its package name, version, and required permissions.",
+        "option1": true,
+        "option2": false,
+        "answer": true
+      },
+      {
+        "question": "In Android, the 'findViewById()' method is used to find a view by its ID.",
+        "option1": true,
+        "option2": false,
+        "answer": true
+      },
+      {
+        "question": "A content provider in Android is used to share data between applications.",
+        "option1": true,
+        "option2": false,
+        "answer": true
+      },
+      {
+        "question": "In Android, the 'onCreate()' method is called when an activity is first created.",
+        "option1": true,
+        "option2": false,
+        "answer": true
+      },
+      {
+        "question": "The Android Application class is a base class for maintaining global application state.",
+        "option1": true,
+        "option2": false,
+        "answer": true
+      },
+      {
+        "question": "In Android, the 'adb' tool is used to communicate with an emulator or a connected Android device.",
+        "option1": true,
+        "option2": false,
+        "answer": true
+      },
+      {
+        "question": "Android supports multiple threads of execution, which can be used to perform time-consuming tasks without blocking the main thread.",
+        "option1": true,
+        "option2": false,
+        "answer": true
+      },
+      {
+        "question": "In Android, a service is a component that runs in the background to perform long-running tasks.",
+        "option1": true,
+        "option2": false,
+        "answer": true
+      }
+    ],
+    "DSA": [
+      {
+        "question": "An array is a data structure that stores a collection of elements of the same data type.",
+        "option1": true,
+        "option2": false,
+        "answer": true
+      },
+      {
+        "question": "A linked list is a data structure in which each element is connected to the next element by a link.",
+        "option1": true,
+        "option2": false,
+        "answer": true
+      },
+      {
+        "question": "In a stack data structure, the last element added is the first element to be removed.",
+        "option1": true,
+        "option2": false,
+        "answer": false
+      },
+      {
+        "question": "A queue is a data structure in which elements are added at one end and removed from the other end.",
+        "option1": true,
+        "option2": false,
+        "answer": true
+      },
+      {
+        "question": "A binary tree is a tree data structure in which each node has at most two children.",
+        "option1": true,
+        "option2": false,
+        "answer": true
+      },
+      {
+        "question": "The time complexity of linear search is O(n), where n is the number of elements in the array.",
+        "option1": true,
+        "option2": false,
+        "answer": true
+      },
+      {
+        "question": "Bubble sort is an efficient sorting algorithm with a time complexity of O(n log n).",
+        "option1": true,
+        "option2": false,
+        "answer": false
+      },
+      {
+        "question": "The time complexity of binary search is O(log n), where n is the number of elements in the sorted array.",
+        "option1": true,
+        "option2": false,
+        "answer": true
+      },
+      {
+        "question": "In recursion, a function calls itself directly or indirectly.",
+        "option1": true,
+        "option2": false,
+        "answer": true
+      },
+      {
+        "question": "Dynamic programming is a technique used to solve problems by breaking them down into smaller subproblems and solving each subproblem only once.",
+        "option1": true,
+        "option2": false,
+        "answer": true
+      }
+    ],
+    "Networking": [
+      {
+        "question": "A network is a collection of interconnected devices that can communicate with each other.",
+        "option1": true,
+        "option2": false,
+        "answer": true
+      },
+      {
+        "question": "In the client-server model, the server is responsible for providing services to the clients.",
+        "option1": true,
+        "option2": false,
+        "answer": true
+      },
+      {
+        "question": "The internet is a global network of interconnected computer networks.",
+        "option1": true,
+        "option2": false,
+        "answer": true
+      },
+      {
+        "question": "TCP (Transmission Control Protocol) is a connectionless protocol that is used to transmit data over the internet.",
+        "option1": true,
+        "option2": false,
+        "answer": false
+      },
+      {
+        "question": "UDP (User Datagram Protocol) is a connectionless protocol that is used for real-time applications such as video and audio streaming.",
+        "option1": true,
+        "option2": false,
+        "answer": true
+      },
+      {
+        "question": "IP (Internet Protocol) is responsible for routing data packets from the source device to the destination device.",
+        "option1": true,
+        "option2": false,
+        "answer": true
+      },
+      {
+        "question": "DNS (Domain Name System) is used to translate human-readable domain names into IP addresses.",
+        "option1": true,
+        "option2": false,
+        "answer": true
+      },
+      {
+        "question": "HTTP (Hypertext Transfer Protocol) is a protocol used for secure communication over the internet.",
+        "option1": true,
+        "option2": false,
+        "answer": false
+      },
+      {
+        "question": "Firewalls are used to protect networks from unauthorized access and malicious traffic.",
+        "option1": true,
+        "option2": false,
+        "answer": true
+      },
+      {
+        "question": "A VPN (Virtual Private Network) allows users to securely access a private network over a public network such as the internet.",
+        "option1": true,
+        "option2": false,
+        "answer": true
+      }
+    ]
+  },
+  "MCQ": {
+    "Maths": [
+      {
+        "question": "What is the sum of 2+2?",
+        "options": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "correct_answer": "4"
+      },
+      {
+        "question": "What is the product of 5*5?",
+        "options": [
+          "20",
+          "25",
+          "30",
+          "35"
+        ],
+        "correct_answer": "25"
+      },
+      {
+        "question": "What is the value of 2^3?",
+        "options": [
+          "2",
+          "4",
+          "6",
+          "8"
+        ],
+        "correct_answer": "8"
+      },
+      {
+        "question": "What is the result of 9-3?",
+        "options": [
+          "3",
+          "6",
+          "9",
+          "12"
+        ],
+        "correct_answer": "6"
+      },
+      {
+        "question": "What is the value of pi?",
+        "options": [
+          "3.14",
+          "3.141",
+          "3.1415",
+          "3.14159"
+        ],
+        "correct_answer": "3.14159"
+      },
+      {
+        "question": "What is the result of 7*8?",
+        "options": [
+          "42",
+          "48",
+          "54",
+          "56"
+        ],
+        "correct_answer": "56"
+      },
+      {
+        "question": "What is the value of the square root of 81?",
+        "options": [
+          "7",
+          "8",
+          "9",
+          "10"
+        ],
+        "correct_answer": "9"
+      },
+      {
+        "question": "What is the result of 12/3?",
+        "options": [
+          "2",
+          "3",
+          "4",
+          "5"
+        ],
+        "correct_answer": "4"
+      },
+      {
+        "question": "What is the value of log base 2 of 16?",
+        "options": [
+          "2",
+          "3",
+          "4",
+          "5"
+        ],
+        "correct_answer": "4"
+      },
+      {
+        "question": "What is the result of 2+2*2?",
+        "options": [
+          "6",
+          "8",
+          "10",
+          "12"
+        ],
+        "correct_answer": "6"
+      }
+    ],
+    "Chemistry": [
+      {
+        "question": "What is the chemical formula for water?",
+        "options": [
+          "H2SO4",
+          "NaCl",
+          "H2O",
+          "CO2"
+        ],
+        "correct_answer": "H2O"
+      },
+      {
+        "question": "What is the chemical symbol for gold?",
+        "options": [
+          "Au",
+          "Ag",
+          "Fe",
+          "Cu"
+        ],
+        "correct_answer": "Au"
+      },
+      {
+        "question": "What is the atomic number of carbon?",
+        "options": [
+          "6",
+          "8",
+          "10",
+          "12"
+        ],
+        "correct_answer": "6"
+      },
+      {
+        "question": "What is the pH of a neutral solution?",
+        "options": [
+          "0",
+          "5",
+          "7",
+          "14"
+        ],
+        "correct_answer": "7"
+      },
+      {
+        "question": "What is the chemical formula for ammonia?",
+        "options": [
+          "NH4+",
+          "NH3",
+          "N2",
+          "H2O"
+        ],
+        "correct_answer": "NH3"
+      },
+      {
+        "question": "What is the chemical formula for sulfuric acid?",
+        "options": [
+          "HCl",
+          "H2SO4",
+          "HNO3",
+          "H3PO4"
+        ],
+        "correct_answer": "H2SO4"
+      },
+      {
+        "question": "What is the chemical formula for methane?",
+        "options": [
+          "CH3OH",
+          "CH2O",
+          "CH4",
+          "C2H5OH"
+        ],
+        "correct_answer": "CH4"
+      },
+      {
+        "question": "What is the atomic number of oxygen?",
+        "options": [
+          "6",
+          "8",
+          "10",
+          "12"
+        ],
+        "correct_answer": "8"
+      },
+      {
+        "question": "What is the chemical formula for hydrochloric acid?",
+        "options": [
+          "H2SO4",
+          "HNO3",
+          "H3PO4",
+          "HCl"
+        ],
+        "correct_answer": "HCl"
+      },
+      {
+        "question": "What is the chemical formula for sodium chloride?",
+        "options": [
+          "NaCl",
+          "NaOH",
+          "Na2CO3",
+          "NaHCO3"
+        ],
+        "correct_answer": "NaCl"
+      }
+    ],
+    "Social": [
+      {
+        "question": "What is the capital of India?",
+        "options": [
+          "Mumbai",
+          "New Delhi",
+          "Kolkata",
+          "Chennai"
+        ],
+        "correct_answer": "New Delhi"
+      },
+      {
+        "question": "Who was the first president of the United States?",
+        "options": [
+          "Abraham Lincoln",
+          "Thomas Jefferson",
+          "George Washington",
+          "John F. Kennedy"
+        ],
+        "correct_answer": "George Washington"
+      },
+      {
+        "question": "Who wrote the book 'To Kill a Mockingbird'?",
+        "options": [
+          "Harper Lee",
+          "J.K. Rowling",
+          "Stephen King",
+          "Mark Twain"
+        ],
+        "correct_answer": "Harper Lee"
+      },
+      {
+        "question": "Which country is known as the 'Land of the Rising Sun'?",
+        "options": [
+          "China",
+          "Japan",
+          "Korea",
+          "Vietnam"
+        ],
+        "correct_answer": "Japan"
+      },
+      {
+        "question": "What is the currency of the United Kingdom?",
+        "options": [
+          "Pound sterling",
+          "Euro",
+          "US Dollar",
+          "Japanese Yen"
+        ],
+        "correct_answer": "Pound sterling"
+      },
+      {
+        "question": "Which planet is known as the 'Red Planet'?",
+        "options": [
+          "Venus",
+          "Mars",
+          "Jupiter",
+          "Saturn"
+        ],
+        "correct_answer": "Mars"
+      },
+      {
+        "question": "Who was the first man to step on the moon?",
+        "options": [
+          "Neil Armstrong",
+          "Buzz Aldrin",
+          "Michael Collins",
+          "Yuri Gagarin"
+        ],
+        "correct_answer": "Neil Armstrong"
+      },
+      {
+        "question": "Which country is the largest producer of coffee in the world?",
+        "options": [
+          "Brazil",
+          "India",
+          "Vietnam",
+          "Colombia"
+        ],
+        "correct_answer": "Brazil"
+      },
+      {
+        "question": "What is the largest country in Africa?",
+        "options": [
+          "South Africa",
+          "Egypt",
+          "Nigeria",
+          "Algeria"
+        ],
+        "correct_answer": "Algeria"
+      },
+      {
+        "question": "Who painted the Mona Lisa?",
+        "options": [
+          "Vincent van Gogh",
+          "Leonardo da Vinci",
+          "Pablo Picasso",
+          "Michelangelo"
+        ],
+        "correct_answer": "Leonardo da Vinci"
+      }
+    ],
+    "C Programming": [
+      {
+        "question": "What is the command used to print output in C?",
+        "options": [
+          "print()",
+          "output()",
+          "printf()",
+          "println()"
+        ],
+        "correct_answer": "printf()"
+      },
+      {
+        "question": "What is the keyword used to declare a variable in C?",
+        "options": [
+          "int",
+          "float",
+          "variable",
+          "declare"
+        ],
+        "correct_answer": "int"
+      },
+      {
+        "question": "Which of the following is a loop in C?",
+        "options": [
+          "if",
+          "for",
+          "else",
+          "switch"
+        ],
+        "correct_answer": "for"
+      },
+      {
+        "question": "What is the keyword used to end a function in C?",
+        "options": [
+          "end",
+          "finish",
+          "return",
+          "stop"
+        ],
+        "correct_answer": "return"
+      },
+      {
+        "question": "What is the symbol used for a single-line comment in C?",
+        "options": [
+          "//",
+          "/*",
+          "*/",
+          "#"
+        ],
+        "correct_answer": "//"
+      },
+      {
+        "question": "What is the keyword used to define a constant in C?",
+        "options": [
+          "define",
+          "constant",
+          "const",
+          "def"
+        ],
+        "correct_answer": "const"
+      },
+      {
+        "question": "What is the operator used for addition in C?",
+        "options": [
+          "+",
+          "-",
+          "*",
+          "/"
+        ],
+        "correct_answer": "+"
+      },
+      {
+        "question": "What is the keyword used to check a condition in C?",
+        "options": [
+          "if",
+          "else",
+          "while",
+          "do"
+        ],
+        "correct_answer": "if"
+      },
+      {
+        "question": "What is the keyword used to exit a loop in C?",
+        "options": [
+          "stop",
+          "end",
+          "break",
+          "exit"
+        ],
+        "correct_answer": "break"
+      },
+      {
+        "question": "What is the keyword used to include a header file in C?",
+        "options": [
+          "#include",
+          "#define",
+          "#ifndef",
+          "#endif"
+        ],
+        "correct_answer": "#include"
+      }
+    ],
+    "C++ Programming": [
+      {
+        "question": "What is the extension of a C++ program file?",
+        "options": [
+          ".cpp",
+          ".c",
+          ".txt",
+          ".exe"
+        ],
+        "correct_answer": ".cpp"
+      },
+      {
+        "question": "What is a compiler?",
+        "options": [
+          "A program that translates code written in a high-level language into machine code",
+          "A program that executes machine code",
+          "A program that checks code for errors",
+          "A program that optimizes code"
+        ],
+        "correct_answer": "A program that translates code written in a high-level language into machine code"
+      },
+      {
+        "question": "What is an object in C++?",
+        "options": [
+          "An instance of a class",
+          "A variable",
+          "A function",
+          "An operator"
+        ],
+        "correct_answer": "An instance of a class"
+      },
+      {
+        "question": "What is inheritance in C++?",
+        "options": [
+          "The ability of one class to inherit properties and methods from another class",
+          "The ability to override a method in a subclass",
+          "The ability to create multiple instances of a class",
+          "The ability to pass arguments by reference"
+        ],
+        "correct_answer": "The ability of one class to inherit properties and methods from another class"
+      },
+      {
+        "question": "What is a constructor in C++?",
+        "options": [
+          "A special method that is called when an object is created",
+          "A method that returns a value",
+          "A method that is called when an object is destroyed",
+          "A method that is used to copy the value of one object to another"
+        ],
+        "correct_answer": "A special method that is called when an object is created"
+      },
+      {
+        "question": "What is polymorphism in C++?",
+        "options": [
+          "The ability of an object to take on many forms",
+          "The ability to overload a method with different parameters",
+          "The ability to create a new class from an existing class",
+          "The ability to access private members of a class"
+        ],
+        "correct_answer": "The ability of an object to take on many forms"
+      },
+      {
+        "question": "What is a virtual function in C++?",
+        "options": [
+          "A function that can be overridden in a subclass",
+          "A function that cannot be overridden in a subclass",
+          "A function that is used to perform mathematical operations",
+          "A function that is used to create a new object"
+        ],
+        "correct_answer": "A function that can be overridden in a subclass"
+      },
+      {
+        "question": "What is a template in C++?",
+        "options": [
+          "A generic class or function that can work with different data types",
+          "A type of pointer",
+          "A type of loop",
+          "A type of operator"
+        ],
+        "correct_answer": "A generic class or function that can work with different data types"
+      },
+      {
+        "question": "What is a namespace in C++?",
+        "options": [
+          "A way to group related code together",
+          "A way to declare a variable",
+          "A way to declare a function",
+          "A way to define a class"
+        ],
+        "correct_answer": "A way to group related code together"
+      },
+      {
+        "question": "What is the scope of a variable in C++?",
+        "options": [
+          "The part of the program where a variable can be accessed",
+          "The memory location of a variable",
+          "The size of a variable",
+          "The value of a variable"
+        ],
+        "correct_answer": "The part of the program where a variable can be accessed"
+      }
+    ],
+    "Kotlin Programming": [
+      {
+        "question": "What is the extension of a Kotlin program file?",
+        "options": [
+          ".kt",
+          ".java",
+          ".ktln",
+          ".ktn"
+        ],
+        "correct_answer": ".kt"
+      },
+      {
+        "question": "What is a nullable variable in Kotlin?",
+        "options": [
+          "A variable that can be null",
+          "A variable that cannot be null",
+          "A variable that has a default value",
+          "A variable that is used for iteration"
+        ],
+        "correct_answer": "A variable that can be null"
+      },
+      {
+        "question": "What is a data class in Kotlin?",
+        "options": [
+          "A class that is used to store data",
+          "A class that is used to perform mathematical operations",
+          "A class that is used for iteration",
+          "A class that is used to define an interface"
+        ],
+        "correct_answer": "A class that is used to store data"
+      },
+      {
+        "question": "What is a lambda expression in Kotlin?",
+        "options": [
+          "A function that can be passed as a parameter",
+          "A function that returns a value",
+          "A function that can be called recursively",
+          "A function that is used for iteration"
+        ],
+        "correct_answer": "A function that can be passed as a parameter"
+      },
+      {
+        "question": "What is a higher-order function in Kotlin?",
+        "options": [
+          "A function that takes a function as a parameter or returns a function",
+          "A function that returns a value",
+          "A function that can be called recursively",
+          "A function that is used for iteration"
+        ],
+        "correct_answer": "A function that takes a function as a parameter or returns a function"
+      },
+      {
+        "question": "What is an extension function in Kotlin?",
+        "options": [
+          "A function that adds a new behavior to an existing class",
+          "A function that is called recursively",
+          "A function that is used for iteration",
+          "A function that returns a value"
+        ],
+        "correct_answer": "A function that adds a new behavior to an existing class"
+      },
+      {
+        "question": "What is a companion object in Kotlin?",
+        "options": [
+          "An object that is associated with a class",
+          "An object that is used for iteration",
+          "An object that is used to perform mathematical operations",
+          "An object that returns a value"
+        ],
+        "correct_answer": "An object that is associated with a class"
+      },
+      {
+        "question": "What is a sealed class in Kotlin?",
+        "options": [
+          "A class that can have a limited number of subclasses",
+          "A class that is used to perform mathematical operations",
+          "A class that is used for iteration",
+          "A class that is used to define an interface"
+        ],
+        "correct_answer": "A class that can have a limited number of subclasses"
+      },
+      {
+        "question": "What is a coroutine in Kotlin?",
+        "options": [
+          "A lightweight thread",
+          "A heavyweight thread",
+          "A function that returns a value",
+          "A function that is used for iteration"
+        ],
+        "correct_answer": "A lightweight thread"
+      },
+      {
+        "question": "What is the Elvis operator in Kotlin?",
+        "options": [
+          "A shorthand for checking if a nullable variable is null and returning a default value if it is",
+          "An operator used for iteration",
+          "An operator used to perform mathematical operations",
+          "An operator used to compare two values"
+        ],
+        "correct_answer": "A shorthand for checking if a nullable variable is null and returning a default value if it is"
+      }
+    ],
+    "Android Development": [
+      {
+        "question": "What is Android?",
+        "options": [
+          "Operating System",
+          "Mobile Device",
+          "Programming Language",
+          "Framework"
+        ],
+        "correct_answer": "Operating System"
+      },
+      {
+        "question": "What programming language is used for Android app development?",
+        "options": [
+          "Java",
+          "Python",
+          "C++",
+          "Ruby"
+        ],
+        "correct_answer": "Java"
+      },
+      {
+        "question": "What is an activity in Android?",
+        "options": [
+          "A single screen in an app",
+          "A file that contains code",
+          "A service that runs in the background",
+          "A database that stores app data"
+        ],
+        "correct_answer": "A single screen in an app"
+      },
+      {
+        "question": "What is a layout in Android?",
+        "options": [
+          "A file that defines the user interface of an activity",
+          "A file that contains code",
+          "A service that runs in the background",
+          "A database that stores app data"
+        ],
+        "correct_answer": "A file that defines the user interface of an activity"
+      },
+      {
+        "question": "What is an intent in Android?",
+        "options": [
+          "A message that is passed between components of an app",
+          "A file that contains code",
+          "A service that runs in the background",
+          "A database that stores app data"
+        ],
+        "correct_answer": "A message that is passed between components of an app"
+      },
+      {
+        "question": "What is a fragment in Android?",
+        "options": [
+          "A reusable portion of an activity",
+          "A file that contains code",
+          "A service that runs in the background",
+          "A database that stores app data"
+        ],
+        "correct_answer": "A reusable portion of an activity"
+      },
+      {
+        "question": "What is a service in Android?",
+        "options": [
+          "A component that runs in the background to perform long-running tasks",
+          "A file that contains code",
+          "A user interface element",
+          "A database that stores app data"
+        ],
+        "correct_answer": "A component that runs in the background to perform long-running tasks"
+      },
+      {
+        "question": "What is a content provider in Android?",
+        "options": [
+          "A component that manages access to a shared repository of data",
+          "A file that contains code",
+          "A user interface element",
+          "A database that stores app data"
+        ],
+        "correct_answer": "A component that manages access to a shared repository of data"
+      },
+      {
+        "question": "What is Gradle in Android development?",
+        "options": [
+          "A build system for building Android apps",
+          "A programming language",
+          "A user interface element",
+          "A database that stores app data"
+        ],
+        "correct_answer": "A build system for building Android apps"
+      },
+      {
+        "question": "What is an APK in Android?",
+        "options": [
+          "A package file format used to distribute and install Android apps",
+          "A programming language",
+          "A user interface element",
+          "A database that stores app data"
+        ],
+        "correct_answer": "A package file format used to distribute and install Android apps"
+      }
+    ],
+    "Science": [
+      {
+        "question": "What is the smallest particle of an element that retains its chemical properties?",
+        "options": [
+          "Atom",
+          "Molecule",
+          "Nucleus",
+          "Ion"
+        ],
+        "correct_answer": "Atom"
+      },
+      {
+        "question": "What is the basic unit of life?",
+        "options": [
+          "Cell",
+          "Tissue",
+          "Organ",
+          "Organism"
+        ],
+        "correct_answer": "Cell"
+      },
+      {
+        "question": "What is the process by which plants convert sunlight into food?",
+        "options": [
+          "Photosynthesis",
+          "Respiration",
+          "Transpiration",
+          "Fermentation"
+        ],
+        "correct_answer": "Photosynthesis"
+      },
+      {
+        "question": "What is the study of the Earth's physical structure and substance, its history, and the processes that act on it?",
+        "options": [
+          "Geology",
+          "Astronomy",
+          "Biology",
+          "Chemistry"
+        ],
+        "correct_answer": "Geology"
+      },
+      {
+        "question": "What is the force that attracts two objects with mass towards each other?",
+        "options": [
+          "Gravity",
+          "Friction",
+          "Magnetism",
+          "Electricity"
+        ],
+        "correct_answer": "Gravity"
+      },
+      {
+        "question": "What is the unit of measurement for electric current?",
+        "options": [
+          "Ampere",
+          "Ohm",
+          "Volt",
+          "Watt"
+        ],
+        "correct_answer": "Ampere"
+      },
+      {
+        "question": "What is the branch of science that studies the behavior and properties of light?",
+        "options": [
+          "Optics",
+          "Acoustics",
+          "Thermodynamics",
+          "Magnetism"
+        ],
+        "correct_answer": "Optics"
+      },
+      {
+        "question": "What is the measure of an object's resistance to changes in motion?",
+        "options": [
+          "Inertia",
+          "Acceleration",
+          "Velocity",
+          "Force"
+        ],
+        "correct_answer": "Inertia"
+      },
+      {
+        "question": "What is the process by which solid changes into a liquid?",
+        "options": [
+          "Melting",
+          "Freezing",
+          "Boiling",
+          "Condensation"
+        ],
+        "correct_answer": "Melting"
+      },
+      {
+        "question": "What is the energy that an object possesses by virtue of its position or condition?",
+        "options": [
+          "Potential",
+          "Kinetic",
+          "Thermal",
+          "Electrical"
+        ],
+        "correct_answer": "Potential"
+      }
+    ],
+    "Physics": [
+      {
+        "question": "What is the formula for force?",
+        "options": [
+          "mass",
+          "acceleration",
+          "distance",
+          "weight"
+        ],
+        "correct_answer": "mass"
+      },
+      {
+        "question": "What is the unit of measurement for force?",
+        "options": [
+          "newton",
+          "meter",
+          "second",
+          "joule"
+        ],
+        "correct_answer": "newton"
+      },
+      {
+        "question": "What is the formula for work?",
+        "options": [
+          "force",
+          "mass",
+          "distance",
+          "time"
+        ],
+        "correct_answer": "force"
+      },
+      {
+        "question": "What is the unit of measurement for work?",
+        "options": [
+          "joule",
+          "newton",
+          "meter",
+          "second"
+        ],
+        "correct_answer": "joule"
+      },
+      {
+        "question": "What is the formula for power?",
+        "options": [
+          "work",
+          "mass",
+          "velocity",
+          "time"
+        ],
+        "correct_answer": "work"
+      },
+      {
+        "question": "What is the unit of measurement for power?",
+        "options": [
+          "watt",
+          "joule",
+          "newton",
+          "meter"
+        ],
+        "correct_answer": "watt"
+      },
+      {
+        "question": "What is the formula for momentum?",
+        "options": [
+          "mass",
+          "velocity",
+          "force",
+          "acceleration"
+        ],
+        "correct_answer": "mass"
+      },
+      {
+        "question": "What is the unit of measurement for momentum?",
+        "options": [
+          "kilogram-meter per second",
+          "meter",
+          "newton",
+          "joule"
+        ],
+        "correct_answer": "kilogram-meter per second"
+      },
+      {
+        "question": "What is the formula for kinetic energy?",
+        "options": [
+          "mass",
+          "velocity",
+          "force",
+          "acceleration"
+        ],
+        "correct_answer": "mass"
+      },
+      {
+        "question": "What is the unit of measurement for kinetic energy?",
+        "options": [
+          "joule",
+          "watt",
+          "newton",
+          "meter"
+        ],
+        "correct_answer": "joule"
+      }
+    ],
+    "Java Programming": [
+      {
+        "question": "What is the extension of a Java program file?",
+        "options": [
+          ".java",
+          ".class",
+          ".txt",
+          ".exe"
+        ],
+        "correct_answer": ".java"
+      },
+      {
+        "question": "What is a compiler?",
+        "options": [
+          "Translate",
+          "Execute",
+          "Check",
+          "Optimize"
+        ],
+        "correct_answer": "Translate"
+      },
+      {
+        "question": "What is an object in Java?",
+        "options": [
+          "Instance",
+          "Variable",
+          "Function",
+          "Operator"
+        ],
+        "correct_answer": "Instance"
+      },
+      {
+        "question": "What is inheritance in Java?",
+        "options": [
+          "Extend",
+          "Override",
+          "Create",
+          "Reference"
+        ],
+        "correct_answer": "Extend"
+      },
+      {
+        "question": "What is a constructor in Java?",
+        "options": [
+          "Initialize",
+          "Return",
+          "Destroy",
+          "Copy"
+        ],
+        "correct_answer": "Initialize"
+      },
+      {
+        "question": "What is polymorphism in Java?",
+        "options": [
+          "Forms",
+          "Overload",
+          "New",
+          "Access"
+        ],
+        "correct_answer": "Forms"
+      },
+      {
+        "question": "What is an interface in Java?",
+        "options": [
+          "Abstract",
+          "Class",
+          "Method",
+          "Object"
+        ],
+        "correct_answer": "Abstract"
+      },
+      {
+        "question": "What is a package in Java?",
+        "options": [
+          "Group",
+          "Declare",
+          "Define",
+          "Access"
+        ],
+        "correct_answer": "Group"
+      },
+      {
+        "question": "What is an exception in Java?",
+        "options": [
+          "Error",
+          "Warning",
+          "Message",
+          "Debug"
+        ],
+        "correct_answer": "Error"
+      },
+      {
+        "question": "What is multithreading in Java?",
+        "options": [
+          "Concurrency",
+          "Parallelism",
+          "Sequential",
+          "Synchronous"
+        ],
+        "correct_answer": "Concurrency"
+      }
+    ],
+    "Biology": [
+      {
+        "question": "What is the study of living organisms called?",
+        "options": [
+          "Biology",
+          "Physics",
+          "Chemistry",
+          "Math"
+        ],
+        "correct_answer": "Biology"
+      },
+      {
+        "question": "What is the smallest unit of life?",
+        "options": [
+          "Cell",
+          "Atom",
+          "Molecule",
+          "Gene"
+        ],
+        "correct_answer": "Cell"
+      },
+      {
+        "question": "What is the process by which organisms make their own food called?",
+        "options": [
+          "Photosynthesis",
+          "Respiration",
+          "Digestion",
+          "Circulation"
+        ],
+        "correct_answer": "Photosynthesis"
+      },
+      {
+        "question": "What is the name for the genetic material that carries the instructions for the development and function of all living things?",
+        "options": [
+          "DNA",
+          "RNA",
+          "Protein",
+          "Enzyme"
+        ],
+        "correct_answer": "DNA"
+      },
+      {
+        "question": "What is the process by which cells divide and reproduce called?",
+        "options": [
+          "Mitosis",
+          "Meiosis",
+          "Transcription",
+          "Translation"
+        ],
+        "correct_answer": "Mitosis"
+      },
+      {
+        "question": "What is the name for the specialized cells that make up the nervous system?",
+        "options": [
+          "Neurons",
+          "Muscles",
+          "Epithelium",
+          "Connective"
+        ],
+        "correct_answer": "Neurons"
+      },
+      {
+        "question": "What is the process by which organisms break down food to obtain energy?",
+        "options": [
+          "Respiration",
+          "Photosynthesis",
+          "Fermentation",
+          "Circulation"
+        ],
+        "correct_answer": "Respiration"
+      },
+      {
+        "question": "What is the process by which organisms eliminate waste products from their bodies?",
+        "options": [
+          "Excretion",
+          "Secretion",
+          "Digestion",
+          "Circulation"
+        ],
+        "correct_answer": "Excretion"
+      },
+      {
+        "question": "What is the name for the process by which organisms maintain a stable internal environment?",
+        "options": [
+          "Homeostasis",
+          "Adaptation",
+          "Evolution",
+          "Mutation"
+        ],
+        "correct_answer": "Homeostasis"
+      },
+      {
+        "question": "What is the study of the interactions between organisms and their environment called?",
+        "options": [
+          "Ecology",
+          "Biodiversity",
+          "Conservation",
+          "Genetics"
+        ],
+        "correct_answer": "Ecology"
+      }
+    ]
+  }
+}
+
+

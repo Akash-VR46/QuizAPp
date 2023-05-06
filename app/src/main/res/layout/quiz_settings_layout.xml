@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/quiz_app"
+        android:textStyle="bold"
+        android:textSize="40sp"
+        android:layout_marginBottom="15dp"
+        />
+
+    <RadioGroup
+        android:id="@+id/landing_page_radio_group"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp">
+    <RadioButton
+        android:id="@+id/multiple_choice_radio_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/multiple_choice_questions"
+        android:textSize="25sp"/>
+
+    <RadioButton
+        android:id="@+id/true_false_radio_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/true_false_questions"
+        android:textSize="25sp"
+        />
+    </RadioGroup>
+    <Button
+        android:id="@+id/start_quiz"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/next_subject_choice_button"
+        android:textSize="25sp"
+        android:layout_marginTop="25dp"
+        />
+
+
+
+
+
+
+
+
+</LinearLayout>
